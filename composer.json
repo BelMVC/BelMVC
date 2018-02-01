@@ -1,0 +1,17 @@
+{
+    "name": "belmvc/belmvc",
+    "description": "belmvc main aplication",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AntonBeletsky",
+            "email": "antonbeletsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.0",
+      "belmvc/core": "*"
+    }
+}
