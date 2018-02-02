@@ -1,0 +1,76 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3e5acfe7536704ea13666e14d82dd15c",
+    "packages": [
+        {
+            "name": "belmvc/belorm",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BelMVC/BelORM.git",
+                "reference": "62dbd6fb8b31c12c1fe02906f346e32f1c0f4163"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BelMVC/BelORM/zipball/62dbd6fb8b31c12c1fe02906f346e32f1c0f4163",
+                "reference": "62dbd6fb8b31c12c1fe02906f346e32f1c0f4163",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "AntonBeletsky",
+                    "email": "antonbeletsky@gmail.com"
+                }
+            ],
+            "description": "ORM",
+            "time": "2018-02-01 15:59:55"
+        },
+        {
+            "name": "belmvc/core",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BelMVC/core.git",
+                "reference": "6959cff74a091a11d25cff783521ef5229a0a1f2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BelMVC/core/zipball/6959cff74a091a11d25cff783521ef5229a0a1f2",
+                "reference": "6959cff74a091a11d25cff783521ef5229a0a1f2",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "AntonBeletsky",
+                    "email": "antonbeletsky@gmail.com"
+                }
+            ],
+            "description": "mvc core framework from antonbeletskyeu@gmail.com",
+            "time": "2018-02-01 14:34:42"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.0"
+    },
+    "platform-dev": []
+}

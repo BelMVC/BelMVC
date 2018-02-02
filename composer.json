@@ -12,6 +12,7 @@
     "minimum-stability": "dev",
     "require": {
       "php": ">=7.0",
-      "belmvc/core": "*"
+      "belmvc/core": "*",
+      "belmvc/belorm": "*"
     }
 }
