@@ -1,9 +1,9 @@
 # BelMVC
 app - application folder
 app/config - config files
-app/web - root folder for host, have index.php
+app/web - root folder for host, has index.php
 app/components - components
-app/console - console
+app/console - console (commands)
 app/models - models
 app/controllers - controllers
 app/views - views
